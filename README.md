@@ -44,7 +44,7 @@ rails s
 <!-- - [Heroku](https://heroku.com/) - Deployment -->
 - [PostgreSQL](https://www.postgresql.org/) - Database
 - [Bootstrap](https://getbootstrap.com/) — Styling
-- [Sass] (https://github.com/rails/sass-rails) -Styling
+- [Sass](https://github.com/rails/sass-rails) -Styling
 - [Figma](https://www.figma.com) — Prototyping
 
 <!-- ## Acknowledgements
