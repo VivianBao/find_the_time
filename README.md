@@ -4,6 +4,14 @@ An web app that helps sort out the best time options for people in different tim
 
 Progress: In Developement
 
+### Main Features (to be developed)
+
+-Users are abale to select available time options in their own time zone
+-Calculate the best options with the every memember of the group avaiable
+
+-Chatrooms
+-Provide conversion of time into user's time zone
+
 ## Getting Started
 ### Setup
 
