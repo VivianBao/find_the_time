@@ -12,6 +12,6 @@ class User < ApplicationRecord
   has_many :invitations, dependent: :destroy
   has_many :huddles, through: :invitations
 
-  has_many :friendships, dependent: :destroy
-  has_many :friends, through: :friendships
+  has_many :friendships_as_user, dependent: :destroy
+  has_many :friends, as: :user, through: :friendships
 end
