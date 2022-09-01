@@ -16,7 +16,7 @@
 
 # -time not confirmed x 7 (invites needed)
 
-# --invitations 27 total
+# --invitations 26 total
 
 # ---as host x 2 (= 9) (hosted by a)
 
@@ -26,10 +26,10 @@
 # ----host(2) host: a, invitees: b, c, d (pending: b )
 # -----> 3 confirmed invites, 1 pending invites
 
-# ---as invitee x 5 (= 18) (hosted by b,c,d) (4~5 participants max)
+# ---as invitee x 5 (= 17) (hosted by b,c,d) (4~5 participants max)
 
-# ----invitee(1) host: b, invitees: a, c, d, e, f (pending: a, c, e)
-# -----> 3 confirmed invites, 3 pending invites
+# ----invitee(1) host: b, invitees: a, c, d, e (pending: a, c)
+# -----> 3 confirmed invites, 2 pending invites
 
 # ----invitee(2) host: b, invitees: a, c, d, e (pending: a)
 # -----> 4 confirmed invites, 1 pending invites

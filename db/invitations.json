@@ -1,0 +1,156 @@
+{
+  "1": {
+    "a": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "b": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "c": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "d": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "e": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    }
+  },
+
+  "2": {
+    "a": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+
+    "b": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+
+    "c": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+
+    "d": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    }
+  },
+
+  "3": {
+    "a": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+
+    "b": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+
+    "c": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+
+    "d": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+
+    "e": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    }
+  },
+
+  "4": {
+    "a": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "b": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "c":{
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "d":{
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "e": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    }
+  },
+
+  "5": {
+    "a": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "b": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "c": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "d": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    }
+  },
+
+  "6":{
+    "a": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "b": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    },
+    "c": {
+      "availability": null,
+      "user_id": null,
+      "huddle_id": null
+    }
+  }
+}
