@@ -17,6 +17,14 @@
 
   <body>
     <%# erb view first rendered %>
+    <%# devise %>
+    <% if notice %>
+      <p class="alert alert-success"><%= notice %></p>
+    <% end %>
+    <% if alert %>
+      <p class="alert alert-danger"><%= alert %></p>
+    <% end %>
+    <%# devise %>
     <%= yield %>
     <div id="root">
     </div>
